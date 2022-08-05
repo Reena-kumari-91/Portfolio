@@ -1,0 +1,32 @@
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: normal;
+    font-size: 13px;
+}
+h3, h1 {
+    font-size: 20px;
+    padding: 15px 0;
+}
+.details {
+    display: block;
+    overflow: hidden;
+    padding: 30px;
+    margin-bottom: 40px;
+}
+.details .label-detail {
+    display: block;
+    overflow: hidden;
+}
+.details label {
+    display: inline-block;
+    overflow: hidden;
+    width: 170px;
+}
+.details span {
+    display: inline-block;
+}
+.name-detail {
+    display: block;
+    overflow: hidden;
+    margin-bottom: 20px;
+}
